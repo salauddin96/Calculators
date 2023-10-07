@@ -10,7 +10,7 @@ import androidx.core.content.ContextCompat
 import com.raihan.practicalpart3.databinding.FragmentBmiBinding
 
 
-class BmiFragment : Fragment() {
+class bmiFragment : Fragment() {
     private lateinit var binding:FragmentBmiBinding
 
 
